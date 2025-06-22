@@ -33,6 +33,8 @@ php artisan serve
 ```
 
 ## 🚀 Coming Soon
-- [ ] [SMS reminders for appointments](https://github.com/yourrepo/issues/1)
-- [ ] [Patient portal for medical history](https://github.com/yourrepo/issues/2)
 
+- [ ] [SMS reminders for appointments](https://github.com/maryasad/clinic-portal-laravel/issues/1)  
+- [ ] [Patient portal for medical history](https://github.com/maryasad/clinic-portal-laravel/issues/2)  
+- [ ] [AI-powered chatbot for FAQs](https://github.com/maryasad/clinic-portal-laravel/issues/3)  
+- [ ] [Integration with Iranian health systems](https://github.com/maryasad/clinic-portal-laravel/issues/4)  
