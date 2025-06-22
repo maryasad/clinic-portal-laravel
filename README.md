@@ -30,6 +30,7 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+```
 
 ## 🚀 Coming Soon
 - [ ] [SMS reminders for appointments](https://github.com/yourrepo/issues/1)
